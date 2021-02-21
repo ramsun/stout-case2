@@ -4,7 +4,7 @@
 Please look over the exploratory analysis Jupyter Notebook with this link hosted via NBViewer: 
 https://nbviewer.jupyter.org/github/ramsun/stout-case2/blob/master/exploratory_analysis.ipynb
 
-This app is being hosted for free via Heroku.  You can find the link bellow:
+This app is being hosted for free via Heroku.  You can find the link below:  
 https://stout-case2.herokuapp.com/
 
 ## Website screenshots

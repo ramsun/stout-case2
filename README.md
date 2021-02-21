@@ -4,11 +4,14 @@
 Please look over the exploratory analysis Jupyter Notebook with this link hosted via NBViewer: 
 https://nbviewer.jupyter.org/github/ramsun/stout-case2/blob/master/exploratory_analysis.ipynb
 
-This app is being hosted for free via Heroku.  You can find the link below:  
+This app is being hosted for free via Heroku.  Bear in mind that since this app is being hosted for free, it can take up to 10 seconds for the Summary Data table to update with new values when selecting a different year from the drop down menu on the left side of the webpage.  Just be a little patient and the table will fill up with the relavant values for the year.  You can find the link below:  
 https://stout-case2.herokuapp.com/
 
 ## Website screenshots
+I have added two screenshots below to show off the web page.  __Image 1__ shows the landing page when you click on the link (by default, the table populated with data from 2015).  __Image 2__ shows data for 2016 and the drop down menu in action.
+### Image 1  
 ![2015 Data](/readme_assets/2015_data.png "2015 Data")
+### Image 2
 ![2016 Data](/readme_assets/2016_data_with_dropdown_menu.png "2016 Data And Dropdown")
 
 ## Purpose:
